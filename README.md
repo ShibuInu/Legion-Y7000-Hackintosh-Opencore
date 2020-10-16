@@ -1,7 +1,8 @@
 # Legion-Y7000-Hackintosh-Opencore
 This is an efi that i used for my Lenovo Legion Y7000 2019 PG0. Its a WIP, and i will be updating it as i go.
 
-## My laptop specs; 
+## My laptop specs
+
  - Processor - Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
  - Memory - 16 GB DDR4 RAM
  - Wireless - Intel(R) Wireless-AC 9560 160MHz
