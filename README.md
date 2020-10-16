@@ -16,7 +16,7 @@ Im currently running windows on my ssd and (later on) macos on a partition on my
 
 ## Installation Guide
 
-Use [Dortina's Opencore guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) to make the USB
+Use [Dortina's Opencore guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) to make the USB.
 Once you're done with that, just delete the EFI folder and 'boot' on the USB and replace it with the one provided in 'Legion Hackintosh' and boot off the USB.
 
 ## Updates
