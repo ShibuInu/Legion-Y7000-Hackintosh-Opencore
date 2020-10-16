@@ -22,11 +22,11 @@ This is an efi that i used for my Lenovo Legion Y7000 2019 PG0. Its a WIP, and i
 
 Im currently running windows on my ssd and (later on) macos on a partition on my data drive (hard drive)
 
-# Installation Guide
+## Installation Guide
 
 > eta s0n
 
-# Updates
+## Updates
 
 **Update - October 16 2020**
 
