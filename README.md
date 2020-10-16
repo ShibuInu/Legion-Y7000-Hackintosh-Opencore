@@ -24,10 +24,11 @@ Im currently running windows on my ssd and (later on) macos on a partition on my
 
 # Installation Guide
 
-eta s0n
+> eta s0n
 
 # Updates
 
-Update - October 16 2020
+**Update - October 16 2020**
+
 Ive booted into the installer. For some reason the ethernet isnt working. To be fixed.
 
