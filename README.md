@@ -1,5 +1,5 @@
 # Legion-Y7000-Hackintosh-Opencore
-This is an efi that i used for my Lenovo Legion Y7000 2019 PG0. Its a WIP, and i will be updating it as i go.
+This is an efi that i used for my Lenovo Legion Y7000 2019 PG0. Big sur is a WIP, and i will be updating it as i go.
 
 ## My laptop specs
 
