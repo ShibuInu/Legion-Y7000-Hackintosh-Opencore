@@ -32,7 +32,7 @@ I fixed ethernet and am now booted into catilina. Also added itlwm.kext for inte
 
 **Update - October 17 2020**
 
-ive fixed nearly everything on catilina (except trackpad, not going to use xosi cause its gonna break windows booting)
+ive fixed nearly everything on catilina (except trackpad, not going to use ssdt-xosi cause its gonna break windows booting)
 Big Sur Eta S0n (ill be starting work on big sur)
 
 ill be posting the final release for catilina soon. 
