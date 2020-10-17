@@ -26,3 +26,6 @@ Once you're done with that, just delete the EFI folder and 'boot' on the USB and
 
 Ive booted into the installer. For some reason the ethernet isnt working. To be fixed.
 
+**Update - October 17 2020**
+
+I fixed ethernet and am now booted into catilina. Also added itlwm.kext for intel internet. There is a .dmg for "heliport". Run that when you're booted into catilina.
