@@ -29,3 +29,8 @@ Ive booted into the installer. For some reason the ethernet isnt working. To be 
 **Update - October 17 2020**
 
 I fixed ethernet and am now booted into catilina. Also added itlwm.kext for intel internet. There is a .dmg for "heliport". Run that when you're booted into catilina.
+
+**Update - October 17 2020**
+
+ive fixed nearly everything on catilina (except trackpad, not going to use xosi cause its gonna break windows booting)
+Big Sur Eta S0n (ill be starting work on big sur)
